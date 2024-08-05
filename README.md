@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iam-Zer0
+- 👋 Hi, I’m @serAphic
 - 👀 I’m interested in Mars is a good planet.
 - 🌱 I’m currently learning Sun is hot.
 - 💞️ I’m looking to collaborate on Uranus is my favourite planet.
