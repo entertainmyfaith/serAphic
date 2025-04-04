@@ -1,21 +1,21 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Srijal!
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning [Technology/Skill].
-- 💼 I’m working as [Your Job Title] at [Company Name].
-- 🔭 I’m passionate about [Your Interests].
-- 🎯 My goals for this year include [Your Goals].
+- 🌱 I’m currently learning CyberSec and AI.
+- 💼 I’m working as IT Specialist at Barriston Law.
+- 🔭 I’m passionate about cybersec.
+- 🎯 My goals for this year include taking one step every day.
 - 💬 Ask me about [Topics You’re Knowledgeable About].
 
 ---
 
 ## 🛠️ Skills & Tools
 ### Languages:
-- Python 🐍 | JavaScript 🌐 | C++ 🚀 | [Other Languages]
+- Python 🐍 | Rust 🌐 | C++ 🚀 | [Other Languages]
 
 ### Frameworks & Libraries:
 - React ⚛️ | Node.js 🟢 | Django 🌟 | [Other Frameworks]
